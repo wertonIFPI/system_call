@@ -10,7 +10,7 @@ function createFileWithPhrase(phrase: string, fileName:string){
             console.log(err)
         }
 
-        console.log(`file creaed in ${path}`)
+        console.log(`file created in ${path}`)
     });
 }
 
